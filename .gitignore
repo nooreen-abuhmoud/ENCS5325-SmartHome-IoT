@@ -1,0 +1,22 @@
+# OMNeT++ build output
+out/
+
+# OMNeT++ raw result files
+*.sca
+*.vec
+*.vci
+
+# Temporary / backup files
+*.tmp
+*.bak
+*~
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS / editor files
+.DS_Store
+.vscode/
+SmartHomeIoT
+.qtenvrc
